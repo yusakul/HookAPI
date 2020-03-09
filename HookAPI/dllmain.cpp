@@ -145,7 +145,7 @@ NTSTATUS WINAPI NewZwQuerySystemInformation(
 	//		while (TRUE)
 	//		{
 	//			// 比较进程名称
-	//			// g_szProcName = 要掩盖的进程名称
+	//			// g_szProcName = 要隐藏的进程名称
 	//			// (=> SetProcName() 开始)
 	//			if (pCur->Reserved2[1] != NULL)
 	//			{
